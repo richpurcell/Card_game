@@ -1,0 +1,13 @@
+Completed:
+Compare dealer hand with all other hands to decide on winners
+Player can take a hit until they are at or over 21
+A dealer has to hit until they are greater than 16
+Dealer loses if greater than 21
+Play multiple games, reshuffle deck and start new game
+Increment wins
+Hide first dealer card
+Then show card at end of player hand
+Each time we print hand we return the value
+Make ace be equal to 1 if bust
+
+Pending:
